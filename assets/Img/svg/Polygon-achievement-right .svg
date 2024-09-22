@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="188.528" height="188.528" viewBox="0 0 188.528 188.528">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff1713"/>
+      <stop offset="1" stop-color="#f85d80"/>
+    </linearGradient>
+  </defs>
+  <path id="Polygon_achievement_-_right" data-name="Polygon achievement - right" d="M95.261,0a20,20,0,0,1,17.348,10.048L136.75,52.127a20,20,0,0,1,0,19.9l-24.141,42.079a20,20,0,0,1-17.348,10.048H47.2a20,20,0,0,1-17.348-10.048L5.71,72.032a20,20,0,0,1,0-19.9L29.851,10.048A20,20,0,0,1,47.2,0Z" transform="translate(87.793) rotate(45)" fill="url(#linear-gradient)"/>
+</svg>
